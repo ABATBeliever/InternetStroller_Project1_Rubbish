@@ -9,7 +9,7 @@
 <dd>こちら:</dd>
 <dd>Rubbishの後継版(InternetStroller Unlabeled)は</dd>
 <dd>こちら:https://github.com/ABATbeliever/InternetStroller_Project2_Unlabeled</dd>
-<dd> </dd>
+<dd>*****************************</dd>
 <dd>Support ends on 2021/12/31</dd>
 <dd>This is an archive of RubbishBrowser, the ancestor of InternetStroller.</dd>
 <dd>It uses IE components in the HotSoupProcessor language.</dd>
