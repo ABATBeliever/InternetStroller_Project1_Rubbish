@@ -1,4 +1,4 @@
-<dd># InternetStroller_Project1_Rubbish</dd>
+# InternetStroller_Project1_Rubbish
 <dd> </dd>
 <dd>2021/12/31サポート終了</dd>
 <dd>このブラウザは、InternetStrollerの先祖、RubbishBrowserのアーカイブです。</dd>
